@@ -2,7 +2,7 @@ Tuliskan NIS-NAMA-ROMBEL-RAYON sesuai dengan nomor absen!
 --------------
 Contoh: 0. 10801867-Acep Rahmat-RPL XI-3-Cib1
 --------------
-1. 
+1. 11907000-AISYAH HUMAIROH SALSABILA-RPL XI-3-WIKRAMA 2
 2. 11907008-ALFIN WIRARAJASA-RPL XI3-WIKRAMA 3 
 3. 
 4. 
