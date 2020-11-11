@@ -2,47 +2,57 @@ Tuliskan NIS-NAMA-ROMBEL-RAYON sesuai dengan nomor absen!
 --------------
 Contoh: 0. 10801867-Acep Rahmat-RPL XI-3-Cib1
 --------------
-1. 
-2. 
+1. 11907000-AISYAH HUMAIROH SALSABILA-RPL XI-3-WIKRAMA 2
+2. 11907008-ALFIN WIRARAJASA-RPL XI3-WIKRAMA 3 
 3. 
 4. 
 5. 
 6. 
 7. 
+8. 11907067_AzrilRizkiSaputra
+7. 11900474-AZIZ MUHAMMAD FIKHRI-RPL XI-3-WIK 5
+6. 11907047-Artagracia Claudia Andriana-RPL XI-3-WIKRAMA3
+7. 11900474-AZIZ MUHAMMAD FIKHRI-RPL XI-3-WIKRAMA 5
 8. 
-9. 
+9. 11907089-DENNIS MUHAMMAD RIFKY HIDAYAT-RPLXI-3-Cic3
 10. 
-11. 
+12.11907150-Fauzan Dzikry Prasetya-RPL XI-3-Cic3
+11. 11907135-Fadly Mubarok Nasution-RPL XI-3-Wik4
 12. 
-13. 
-14. 
+13. 11907151-Fauzy Agil Putrandy-RPL XI-3-Cis6
+14. 11907170-Giska Wafiq Azizah Setiawan-RPL XI-3-Cic 7
 15. 
-16. 
+16. 11907194-ILMA AWALIAH-RPL XI-3-Taj 4
 17. 
-18. 
-19. 
+18. 11907218-KASYFI SYAUQI-RPL XI-3-Cic7
+19. 11907224-Kinkin Marisa Cahyati-RPL XI-3-Cib1 
 20. 
 21. 
 22. 
 23. 
 24. 
-25. 
 26.11907300-Muhammad Fadlan-RPL XI-3-Cib1 
 27. 
+25. 11907393- Muhammad Yusril -RPL XI3- Cis 1 
+23.11907319-Muhamad Rafli-RPL XI-3-CIC 1 
+24.11900517-muhamad Syafiq haikal-RPL XI-3-wik 5
+25. 11907393-Muhammad Yusril -RPL-XI3- Cis1 
+26. 
+27. 11900523-Muhammmad Fathoni-RPL XI3-WIK5
 28. 
 29. 
-30. 
+30. 11907361-Muhammad Lathiif Ghaffaridillah-RPL XI-3-CIC 3
 31. 
-32. 
+32. 11907382-Muhammad Rivaldi-RPL XI-3-CIS 5 
 33. 
 34. 
 35. 
-36. 
+36. 11907441-Putri Dyanita-RPL XI-3-Cis 1
 37. 
 38. 
 39. 
 40. 
-41. 
+41. 11900572_Yefta Kurnia Paradita-RPL XI-3-WIK 5
 42. 
 43. 
 44. 
