@@ -8,18 +8,21 @@ Contoh: 0. 10801867-Acep Rahmat-RPL XI-3-Cib1
 4. 
 5. 
 6. 
+7. 11900474-AZIZ MUHAMMAD FIKHRI-RPL XI-3-WIK 5
+6. 11907047-Artagracia Claudia Andriana-RPL XI-3-WIKRAMA3
 7. 11900474-AZIZ MUHAMMAD FIKHRI-RPL XI-3-WIKRAMA 5
 8. 
-9. 
-10. 11907108-Dina Dessiyani-RPL XI-3-Cis6 
+9. 11907089-DENNIS MUHAMMAD RIFKY HIDAYAT-RPLXI-3-Cic3
+10. 
+12.11907150-Fauzan Dzikry Prasetya-RPL XI-3-Cic3
 11. 11907135-Fadly Mubarok Nasution-RPL XI-3-Wik4
 12. 
 13. 11907151-Fauzy Agil Putrandy-RPL XI-3-Cis6
-14. 
+14. 11907170-Giska Wafiq Azizah Setiawan-RPL XI-3-Cic 7
 15. 
 16. 11907194-ILMA AWALIAH-RPL XI-3-Taj 4
 17. 
-18. 
+18. 11907218-KASYFI SYAUQI-RPL XI-3-Cic7
 19. 11907224-Kinkin Marisa Cahyati-RPL XI-3-Cib1 
 20. 
 21. 
@@ -27,6 +30,8 @@ Contoh: 0. 10801867-Acep Rahmat-RPL XI-3-Cib1
 23.11907319-Muhamad Rafli-RPL XI-3-CIC 1 
 24. 
 25.11907393-Muhamad Yusril- RPL XI3- Cis 1
+24.11900517-muhamad Syafiq haikal-RPL XI-3-wik 5
+25. 11907393-Muhammad Yusril -RPL-XI3- Cis1 
 26. 
 27. 11900523-Muhammmad Fathoni-RPL XI3-WIK5
 28. 
@@ -37,7 +42,7 @@ Contoh: 0. 10801867-Acep Rahmat-RPL XI-3-Cib1
 33. 
 34. 
 35. 
-36. 
+36. 11907441-Putri Dyanita-RPL XI-3-Cis 1
 37. 
 38. 
 39. 
